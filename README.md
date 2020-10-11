@@ -1,2 +1,2 @@
-# fimd-k-value
+# find-k-value
 This shows how to find a good k-value
